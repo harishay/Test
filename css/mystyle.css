@@ -1,0 +1,24 @@
+
+#unorder {
+    border: 1px solid purple;
+    float: left;
+    width: 49%;
+    margin: 1px;
+    padding-bottom: 5px;
+}
+ol {
+    border: 1px solid blue;
+    float: left;
+    width: 49%;
+    margin-left: 20px;
+    padding-bottom: 5px;
+}
+#foot {
+    margin-top: 10px;
+}
+.error {
+    color: red;
+}
+.valid {
+    border: 1px solid green;
+}
